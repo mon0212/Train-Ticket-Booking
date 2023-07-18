@@ -1,5 +1,5 @@
 # Train-Ticket-Booking
-This is a simple web application for managing train information. It allows users to view existing trains, add new trains, and perform basic login functionality.
+This is a web application for managing train information. It allows users to view existing trains, add new trains, and perform basic login functionality.
 
 Technologies Used
 Java Servlets
